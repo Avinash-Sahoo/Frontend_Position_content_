@@ -1,0 +1,97 @@
+*{
+    margin: 0px;
+    padding: 0px;
+  box-sizing: border-box;
+  }
+  header{
+  background-color:black;
+  padding: 20px 0;
+  }
+  .container{
+    max-width: 1200px;
+    margin: 0 auto;
+   padding: 0  32px ;
+  }
+  a img{
+  width:200px;
+  }
+  nav, .boy{
+  display:inline-block;
+  vertical-align:middle;
+  }
+  nav{
+  width:calc(100% - 200px);
+  text-align:right;
+  }
+  .blog{
+  color:green;
+  }
+  nav a{
+  text-decoration: none;
+  color: white;
+  font-size:22px;
+  margin:0 20px;
+  }
+  .box1,.box2{
+  display:inline-block;
+  vertical-align:middle;
+  width:50%;
+  }
+  .box1{
+  padding-right:50px;
+  }
+  
+  .box2 img{
+  width:495px;
+  }
+  .box1 h1{
+  font-size:40px;
+  line-height:60px;
+  }
+  .box1 p{
+  font-size:20px;
+  line-height:25px;
+  }
+  .sec1{
+  padding:40px 0px;
+  }
+  .btn{
+  background-color:green;
+  color:white;
+  font-size:15px;
+  padding:10px 18px;
+  margin:12px 0;
+  border:none;
+  border-radius:20px;
+  cursor:pointer;
+  }
+  .box3, .box4{
+  display:inline-block;
+  vertical-align:middle;
+  width:50%;
+  padding-right:60px;
+  }
+  .box3 img, .box4 img{
+  width:500px;
+  }
+  .box3 h1, .box4 h1{
+  margin:10px 0;
+  font-size:25px;
+  
+  }
+  .box3 p, .box4 p{
+  margin:10px 0;
+  font-size:20px;
+  }
+  .sec2{
+  padding-bottom:40px;
+  }
+  .copy{
+  text-align:center;
+  padding:20px 0;
+  background-color:black;
+  }
+  .copy p{
+  color:white;
+  }
+  
